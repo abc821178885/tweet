@@ -6,5 +6,11 @@ icons：图标
 
 实现细节
 
+方案一
 通过 insertCryptoPairIntoTweets 实现获取推文信息的插入币对信息到推文中 
 在通过 observeScroll 观察动态内容加载
+
+方案2
+通过 document.addEventListener 观察文案中的推文信息，从而插入信息
+
+做了两种尝试，分别放在方案一，还有方案二
