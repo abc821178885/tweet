@@ -1,6 +1,5 @@
 document.addEventListener('DOMNodeRemoved', function() {  
     // 初始化MutationObserver  
-    console.log('333');
     
     const observer = new MutationObserver(mutations => {  
         mutations.forEach(mutation => {  
