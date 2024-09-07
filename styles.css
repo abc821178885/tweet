@@ -1,0 +1,5 @@
+.crypto-highlighted {  
+    background-color: yellow; /* 或其他突出显示的颜色 */  
+    font-weight: bold;  
+    cursor: pointer;  
+  }
